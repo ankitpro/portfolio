@@ -1958,3 +1958,12 @@ section {
 	background-color: #35506b;
 	border-color: #35506b;
 }
+
+
+.btn-secondary{
+border:1px solid #00ff9f;
+color:#00ff9f;
+padding:12px 20px;
+border-radius:6px;
+text-decoration:none;
+}
